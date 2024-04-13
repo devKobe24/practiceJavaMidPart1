@@ -1,6 +1,6 @@
 package lang.string.test;
 
-public class TestString7 {
+public class TestString6Review {
 
   public static void main(String[] args) {
     String str = "start hello java, hello spring, hello jpa";
